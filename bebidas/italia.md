@@ -13,3 +13,7 @@ Italia tiene una cultura rica en bebidas tradicionales, desde vinos famosos hast
 - **Espresso**: Café fuerte y corto, esencial en la vida diaria italiana.
 - **Cappuccino**: Café con leche espumada, consumido generalmente en el desayuno.
 - **Chinotto**: Refresco oscuro, ligeramente amargo, hecho con cítricos.
+
+## Consejos para servir o maridar
+
+El vino tinto se sirve con carnes y pastas, mientras que el blanco acompaña pescados o quesos suaves. El espresso se toma después de las comidas, y el limoncello se sirve frío como digestivo.
