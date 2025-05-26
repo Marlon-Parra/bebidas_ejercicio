@@ -7,3 +7,9 @@ Brasil es conocido por su gran variedad de bebidas refrescantes y exóticas que 
 
 - **Caipirinha**: La bebida nacional de Brasil, hecha con cachaça, azúcar y lima.
 - **Cachaça**: Un licor destilado de jugo de caña de azúcar, base para muchos cócteles.
+
+
+## Bebidas sin alcohol
+
+- **Suco de maracuyá**: Jugo refrescante de maracuyá (fruta de la pasión).
+- **Guaraná**: Refresco popular hecho con la fruta amazónica guaraná.
