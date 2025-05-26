@@ -11,3 +11,7 @@ Alemania tiene una rica tradición en bebidas, especialmente cervezas, con una c
 
 - **Apfelschorle**: Mezcla refrescante de jugo de manzana y agua con gas.
 - **Tee (té)**: Consumido especialmente en el norte del país, a menudo con crema y azúcar en terrones.
+
+## Consejos para servir o maridar
+
+Las cervezas alemanas se disfrutan mejor a temperatura fresca (no muy fría), en vasos especiales según el tipo. El Apfelschorle es ideal para acompañar comidas ligeras y es muy popular entre los niños.
