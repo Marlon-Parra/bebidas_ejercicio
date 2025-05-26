@@ -13,3 +13,7 @@ Japón ofrece una variedad de bebidas tradicionales que combinan sabor, historia
 - **Té verde (ocha)**: Parte esencial de la cultura japonesa, servido en ceremonias y comidas.
 - **Ramune**: Refresco dulce y carbonatado con botella de vidrio y bola de mármol.
 - **Amazake**: Bebida dulce baja en alcohol o sin alcohol hecha de arroz fermentado.
+
+## Consejos para servir o maridar
+
+El sake se disfruta mejor con sushi y platos tradicionales. El té verde se sirve caliente con dulces japoneses. Ramune es ideal como bebida divertida y refrescante en verano.
